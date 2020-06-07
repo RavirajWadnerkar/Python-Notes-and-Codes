@@ -1,0 +1,12 @@
+The + operator that we used for calculations also lets us combine strings.
+Combining strings is called string concatenation.
+String concatenation can be used with strings and variables that have string values.
+
+
+print('Hello ' + 'Python')
+                joins strings
+name = 'Ravi'
+
+print('My name is ' + name)
+        can join a string and a variable!
+
