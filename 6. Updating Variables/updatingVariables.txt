@@ -1,0 +1,31 @@
+Updating the Value of a Variable ( 1 )
+
+This time we will update the value of a variable that is already defined.
+You can overwrite a variable simply by assigning a new value to it.
+
+x=5
+print(x)
+
+x=11
+    overwrite the value by assigning 11 to the variable x.
+print(x)
+
+Updating the Value of a Variable ( 2 )
+
+In order to add some number to a variable, you can assign the sum of the variable and the number to the variable itself.
+This may seem strange, but remember that = means assign, not equal.
+
+x=5
+print(x)
+
+x = x + 3
+    Add 3 to the varible x
+print(x)
+
+Updating the Value of a Variable ( 3 )
+
+You can use shorthand operators like in the image below when updating a variable that has an integer value.
+All kinds of calculations have a similar syntax.
+
+Standard          shorthand
+x = x + 10   ->   x += 10
