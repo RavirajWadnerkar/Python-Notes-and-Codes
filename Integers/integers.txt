@@ -1,0 +1,19 @@
+You can use numbers like integers in programming.
+
+Unlike strings, they don't need to be enclosed in quotes.
+
+You can add and subtract integers just like you do in math.
+
+The spaces before and after operators are not required, but they will make the code easier to read.
+
+
+Difference between Strings and Integers
+
+Strings and integers are interpreted differently in programming.
+
+print(3 + 5)                      print('3 + 5')
+
+3 + 5 will print 8, which is the result of the addition. 
+
+However, if you enclose it in quotes and make it a string, the output will stay as 3 + 5.
+
