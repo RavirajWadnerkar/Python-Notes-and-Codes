@@ -1,0 +1,18 @@
+How to Name a Variable
+
+You can pick any name for variables, but there are some rules.
+For example, you cannot start a variable name with a number.
+Also, when a variable name contains more than two words, like user_name, you should separate them with _.
+
+
+Importance of Variables (1)
+
+So far, we have learned how to use and name variables. But why do programmers use them?
+One reason is that labeling data makes it easier to tell what the value represents, making the code easier to read.
+
+
+Importance of Variables (2)
+
+There are other advantages of variables:
+・They allow you to use the same data repeatedly.
+・When you want to change the value of a variable, you only need to change it once.
