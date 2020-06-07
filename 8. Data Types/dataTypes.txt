@@ -1,0 +1,40 @@
+Differences in Data Types
+
+Different types have different behaviors.
+For example, print(5 + 7) calculates the sum while print('5' + '7') concatenates strings.
+
+print(5 + 7)  <-- numerical calculation
+Output : 12
+
+print('5' + '7')  <-- String concatenation
+Output : 57
+
+
+Type Conversion: str()
+
+Like the image on the left, you can't concatenate strings and integers because they have different data types. In order to concatenate different types of data, you have to perform type conversion.
+you first have to convert the integer to a string, using str().
+
+price = 3
+
+print('The apple costs' + price + 'dollars')
+        string            Integer  string
+
+price = 3
+
+print('The apple costs' + str(price) + 'dollars')
+                    convert an Integer to string
+
+
+Type Conversion: int()
+
+
+You also can't perform calculations with a string and an integer.
+You have to convert the string to an integer using int()
+
+count = '3'
+price = 100
+
+total_price = price * int(count)
+                    convert to an integer.
+print(total_price)
