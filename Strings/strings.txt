@@ -1,0 +1,8 @@
+You can display characters by using print().
+Characters inside the parentheses will be displayed in the console.
+In Python, a sequence of characters, like "Hello Python", is called a string.
+A string needs to be enclosed in single ' or double " quotes.
+The output will be the same either way.
+If you don't put it in quotes, you will get an error.
+Adding # at the beginning will make the entire line a comment.
+Comments will not be executed when running code, so you can use them to leave notes.
